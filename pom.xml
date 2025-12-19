@@ -114,6 +114,12 @@
 			<version>8.10.1</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.microsoft.sqlserver</groupId>
+			<artifactId>mssql-jdbc</artifactId>
+			<version>12.4.2.jre11</version> <!-- Usa la versión compatible con tu JDK -->
+		</dependency>
+
 
 	</dependencies>
 
